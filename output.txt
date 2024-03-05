@@ -1,0 +1,6 @@
+Student Name: mandavi
+Student Roll No.: 45
+Grade in Maths: 67.0
+Grade in chemistry: 78.0
+Grade in physics: 89.0
+Overall Grade: C
